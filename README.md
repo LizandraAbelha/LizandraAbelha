@@ -21,7 +21,6 @@
 
 #### 🧠 Linguagens
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -53,7 +52,7 @@
   
 - 💼 LinkedIn: [linkedin.com/in/lizandra-abelha](https://www.linkedin.com/in/lizandra-abelha/)  
 - 🐙 GitHub: [github.com/LizandraAbelha](https://github.com/LizandraAbelha)
-- - 🌐 Portfólio: [seusite.dev](portifoliolizandra.netlify.app)
+- 🌐 Portfólio: [seusite.dev](portifolio-ten-rust-20.vercel.app)
 
 ---
 
