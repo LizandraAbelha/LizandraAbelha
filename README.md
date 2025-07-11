@@ -53,7 +53,7 @@
   
 - 💼 LinkedIn: [linkedin.com/in/lizandra-abelha](https://www.linkedin.com/in/lizandra-abelha/)  
 - 🐙 GitHub: [github.com/LizandraAbelha](https://github.com/LizandraAbelha)
-- - 🌐 Portfólio: [seusite.dev](portifolio-ten-rust-20.vercel.app)
+- - 🌐 Portfólio: [seusite.dev](portifoliolizandra.netlify.app)
 
 ---
 
