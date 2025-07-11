@@ -11,8 +11,8 @@
 ### 💼 Sobre mim
 
 - 🎓 Graduanda em Engenharia de Computação  
-- 🌱 Atualmente aprendendo: Angular + Spring Boot  
-- 🔍 Interesse em desenvolvimento Full Stack, Segurança da Informação e IA  
+- 🌱 Atualmente aprendendo: Angular + Spring Boot e análise de dados  
+- 🔍 Interesse em desenvolvimento Full Stack e análise de dados  
 - 💬 Me chama para conversar sobre tecnologia, projetos, ou só trocar ideia!
 
 ---
